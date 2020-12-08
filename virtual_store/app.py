@@ -45,7 +45,7 @@ productIventory = [
 ]
 
 initialLayout = [
-    html.Div([html.H3("Aakash Virtual Store", style={"textAlign": "center"})]),
+    html.Div([html.H3("Virtual Store", style={"textAlign": "center"})]),
     html.Div(
         [
             html.Div(
